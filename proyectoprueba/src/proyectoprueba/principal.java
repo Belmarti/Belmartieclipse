@@ -7,5 +7,6 @@ public class principal {
 		System.out.println("Holi wankenobi");
 		System.out.println("Buona sera!");
 		System.out.println("Ciao bella!");
+		System.out.println("Adioh de verdad");
 	}
 }
